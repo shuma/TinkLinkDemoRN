@@ -27,5 +27,18 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "This repository is an example of how you can utilize AWS Device Farm for testing your React Native applications. We can take advantage of [Appium](http://appium.io/) and [WebdriverIO](https://webdriver.io/) to run our tests against our application on emulator/simulators and physical devices.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuma/TinkLinkDemoRN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuma/TinkLinkDemoRN/issues"
+  },
+  "homepage": "https://github.com/shuma/TinkLinkDemoRN#readme"
 }
